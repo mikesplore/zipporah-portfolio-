@@ -57,7 +57,6 @@ html {
 }
 
 .animated-gradient-text {
-  @apply font-semibold;
   background: linear-gradient(to right, #00f0ff, #8c00ff, #ff00c8, #00f0ff);
   background-size: 300% auto;
   background-clip: text;
